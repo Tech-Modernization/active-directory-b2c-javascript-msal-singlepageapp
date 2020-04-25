@@ -6,8 +6,8 @@
  * */
 const msalConfig = {
   auth: {
-    clientId: "e760cab2-b9a1-4c0d-86fb-ff7084abd902",
-    authority: "https://fabrikamb2c.b2clogin.com/fabrikamb2c.onmicrosoft.com/b2c_1_susi",
+    clientId: "2fcb5f8e-4f11-4153-bfd8-dcb67146a4eb",
+    authority: "https://yunspaceb2c.b2clogin.com/yunspaceb2c.onmicrosoft.com/B2C_1_login",
     validateAuthority: false
   },
   cache: {
